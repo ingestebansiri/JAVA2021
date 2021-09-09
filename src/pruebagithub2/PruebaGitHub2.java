@@ -20,7 +20,7 @@ public class PruebaGitHub2 {
         // TODO code application logic here
         
        
-        JOptionPane.showMessageDialog(null,"AA");
+        JOptionPane.showMessageDialog(null,"Agustin Alfieri");
     }
     
 }
